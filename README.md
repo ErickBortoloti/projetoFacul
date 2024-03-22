@@ -18,3 +18,4 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+<p> <b> Esse projeto consiste em criar um Web Site com Front & Back, onde será possível realizar cadastro de pessoas em um banco de dados, realizar logins & ativar ou inativar o cadastro! </b></p>
