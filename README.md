@@ -5,7 +5,7 @@
 <p> <b> Esse projeto consiste em criar um Web Site com Front & Back, onde será possível realizar cadastro de pessoas em um banco de dados, realizar logins & ativar ou inativar o cadastro! </b></p>
 
 
-<p> As tecnologias utilizadas nesse projeto foram as seguintes: </p>
+<p> As tecnologias utilizadas nesse projeto foram: </p>
 <ul>
   <li>Java</li>
   <li>SpringBoot</li>
